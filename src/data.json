@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "description":
+        "Quis id sequi non aperiam nihil rerum. Ad non qui qui sint molestiae.",
+      "abb": "ABA",
+      "name": "Harvard University"
+    },
+    {
+      "id": 1,
+      "user":
+        "Southfield, MI",
+      "abb": "1",
+      "name": "Abcott Institute"
+    },
+    {
+      "id": 2,
+      "user": "Abilene, TX",
+      "abb": "?",
+      "name": "Abilene Christian University"
+    },
+    {
+      "id": 3,
+      "user":
+        "Tifton, GA",
+      "abb": "?",
+      "name": "Abraham Baldwin Agricultural College"
+    },
+    {
+      "id": 4,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Abraham Lincoln University"
+    },
+    {
+      "id": 5,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Ac?a University"
+    },
+    {
+      "id": 6,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Acupuncture and Integrative Medicine College Berkeley"
+    },
+    {
+      "id": 7,
+      "user":
+        "Distinctio in reiciendis numquam nobis architecto repellatnecessitatibus omnis distinctio.",
+      "abb": "?",
+      "name": "Abcott Institute"
+    },
+    {
+      "id": 8,
+      "user": "Eligendi rerum saepe consequatur voluptas vel pariatur. ",
+      "abb": "?",
+      "name": "Abilene Christian University"
+    },
+    {
+      "id": 9,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Abraham Baldwin Agricultural College"
+    },
+    {
+      "id": 10,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Abraham Lincoln University"
+    },
+    {
+      "id": 11,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Ac?a University"
+    },
+    {
+      "id": 12,
+      "user":
+        "Abilene, TX",
+      "abb": "?",
+      "name": "Acupuncture and Integrative Medicine College Berkeley"
+    }
+  ]
+}

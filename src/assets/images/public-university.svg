@@ -1,0 +1,17 @@
+<svg width="72" height="52" viewBox="0 0 72 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.565063" y="4" width="66.7917" height="48" rx="16" fill="#CCFB4B"/>
+<rect x="44.0651" width="27" height="27" rx="13.5" fill="#F3F5F6"/>
+<path d="M55.7766 8.13159H62.3941C62.919 8.13159 63.1909 8.75799 62.8324 9.14138L60.8871 11.2218C60.6714 11.4524 60.6714 11.8107 60.8871 12.0414L62.8324 14.1218C63.1909 14.5052 62.919 15.1316 62.3941 15.1316H55.7766" stroke="black" stroke-width="2"/>
+<line x1="54.9851" y1="5.81579" x2="54.9851" y2="21.8158" stroke="black" stroke-width="2"/>
+<path d="M37.8367 21.2361V42.2273H23.2595V21.2361" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<path d="M37.9412 27.3971H44.5244C46.4289 27.3971 47.9728 28.9409 47.9728 30.8454V42.2275H23.6758" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="28.4951" y1="31.6045" x2="32.5279" y2="31.6045" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="41.3639" y1="32.2659" x2="41.3639" y2="32.1838" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="41.3639" y1="38.0008" x2="41.3639" y2="37.9188" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="44.875" y1="32.2659" x2="44.875" y2="32.1838" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="44.875" y1="38.0008" x2="44.875" y2="37.9188" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<circle cx="30.6092" cy="26.4138" r="1.21126" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<path d="M28.4951 38.7509C28.4951 37.6373 29.3978 36.7345 30.5115 36.7345C31.6251 36.7345 32.5279 37.6373 32.5279 38.7509V41.4476H28.4951V38.7509Z" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="30.6329" y1="13.462" x2="41.1997" y2="24.0289" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+<line x1="1.09035" y1="-1.09035" x2="16.0341" y2="-1.09035" transform="matrix(-0.707107 0.707107 0.707107 0.707107 32.058 13.462)" stroke="black" stroke-width="2.1807" stroke-linecap="round"/>
+</svg>
